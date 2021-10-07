@@ -132,3 +132,18 @@ Binding(CTRL+SHIFT+C,
 !MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
 !SUBENTRY 1 org.eclipse.ui 2 0 2021-10-07 16:33:15.619
 !MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-07 17:04:52.233
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YzTBfYGt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-07 17:04:52.234
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YzTBfYGt
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-07 17:04:52.235
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-07 17:04:52.236
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YzTBfYGt => OK
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-10-07 17:04:55.073
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression$1
